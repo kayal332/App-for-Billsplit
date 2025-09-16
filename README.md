@@ -1,4 +1,4 @@
-# 💰 Bill Splitter Application (Java)
+# 💰 Bill Splitter Tool(Java)
 
 A simple Java application built in *Eclipse* that helps split bills among friends fairly.  
 
